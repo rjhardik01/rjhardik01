@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Hardik Kumar</h1>
 
-<!--
-**rjhardik01/rjhardik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 AI Enthusiast • 💻 Developer • 📚 Lifelong Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+🎓 B.Tech Computer Science (AI)
+
+🧠 Currently mastering:
+- Python
+- Machine Learning
+- Data Structures & Algorithms
+- Git & GitHub
+
+🚀 2026 Goals
+- ✅ Build 20+ Projects
+- ✅ Contribute to Open Source
+- ✅ Land an AI Internship
+- ✅ Improve Competitive Programming
+
+---
+
+> "Code is not just about solving problems. It's about creating possibilities."
