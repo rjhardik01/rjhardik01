@@ -1,34 +1,181 @@
-<h1 align="center">Hi 👋, I'm Hardik Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+  Hi 👋, I'm Hardik Kumar
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjhardik01&label=Profile%20views&color=0e75b6&style=flat" alt="rjhardik01" /> </p>
+<h3 align="center">
+AI • Machine Learning • Full Stack Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjhardik01" alt="rjhardik01" /></a> </p>
-
-- 🔭 I’m currently working on **AI & Machine Learning Projects**
-
-- 🌱 I’m currently learning **Python • Data Structures & Algorithms • Machine Learning • Git/GitHub • SQL**
-
-- 👯 I’m looking to collaborate on **AI Internship Projects**
-
-- 🤝 I’m looking for help with **Machine Learning, Deep Learning & Open Source Contributions**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rjhardik01](https://github.com/rjhardik01)
-
-- 💬 Ask me about **Python, AI, Machine Learning, Git, GitHub, Problem Solving**
-
-- 📫 How to reach me **Hardikkr201@gmail.com**
-
-- ⚡ Fun fact **I believe consistency beats talent when talent doesn't stay consistent. 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rjhardik.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rjhardik.01" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer;Open+Source+Learner;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:hardikkr20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjhardik01&show_icons=true&locale=en&layout=compact" alt="rjhardik01" /></p>
+  <a href="https://www.linkedin.com/in/hardikkr01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjhardik01&show_icons=true&locale=en" alt="rjhardik01" /></p>
+  <a href="https://github.com/rjhardik01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+# 💫 About Me
+
+🎓 **B.Tech Computer Science (Artificial Intelligence)**  
+🏫 MIT ADT University, Pune
+
+💻 Passionate about solving real-world problems through technology.
+
+🚀 Currently focused on
+
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- Data Structures & Algorithms
+- Open Source
+
+🎯 Looking for
+
+- AI/ML Internship
+- Software Development Internship
+- Open Source Collaboration
+
+---
+
+# 🏆 Leadership & Community
+
+🎤 Executive Member — TEDx MIT ADT University
+
+🎭 Vice President — Panchayati Drama Club
+
+💻 GeeksforGeeks Student Chapter
+
+I enjoy leading teams, organizing events, and building communities while continuously improving my technical skills.
+
+---
+
+# 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+- React.js
+- Node.js
+- TensorFlow
+- Flask
+- GitHub Actions
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,git,github,vscode,mysql,linux,flask,tensorflow"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rjhardik01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjhardik01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rjhardik01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rjhardik01&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rjhardik01&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Projects | Machine Learning & AI applications |
+| 📦 Inventory Management System | Java + MySQL project |
+| 🌐 Portfolio Website | Personal portfolio (Coming Soon) |
+| 💻 Java Projects | Academic & practice projects |
+| 📊 Data Science Projects | Python + Pandas + NumPy |
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Data Structures & Algorithms
+
+✅ Build 20+ High Quality Projects
+
+✅ Become an Open Source Contributor
+
+✅ Secure an AI Internship
+
+✅ Learn Full Stack Development
+
+✅ Maintain an Active GitHub Profile
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **hardikkr20@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/hardikkr01
+
+🐙 GitHub:
+https://github.com/rjhardik01
+
+---
+
+# ⚡ Fun Fact
+
+> "Consistency beats intensity. Small improvements every day lead to extraordinary results."
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rjhardik01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
